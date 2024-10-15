@@ -35,8 +35,11 @@
     "vitest": "^0.34.4"
   },
   "scripts": {
+    "start": "react-stations start",
+    "test": "react-stations test",
+    "eject": "react-stations eject",
     "dev": "vite",
-    "build": "vite build",
+    "build": "react-scripts build",
     "clean": "rimraf dist",
     "fmt": "yarn fmt:js",
     "fmt:dry": "yarn fmt:js:dry",

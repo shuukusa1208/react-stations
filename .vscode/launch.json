@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://C:\\Users\\tekut\\react-stations\\src\\DogListContainer.jsx",
+            "request": "launch",
+            "url": "http://C:\\Users\\tekut\\react-stations\\src\\DogListContainer.jsx"
+        }
+    ]
+}
